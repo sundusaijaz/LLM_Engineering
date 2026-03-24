@@ -1,7 +1,5 @@
 # 🧠 LLM Engineering: My Learning & Practice Repository
 
-Welcome to my **LLM Engineering Learning Hub** — a hands-on repository documenting my progress through the [**LLM Engineering: Master AI, Large Language Models & Agents**](https://www.udemy.com/) course on **Udemy**.
-
 This space is where I **practice, experiment, and explore** everything about **Large Language Models (LLMs)**, **AI agents**, and **prompt engineering** — building from theory to real-world applications.
 
 ---
