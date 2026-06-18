@@ -18,27 +18,6 @@ FAISS vector store  →  similarity search on query
 Mistral-7B-Instruct (HuggingFace)  →  answer grounded in retrieved chunks
 ```
 
-## Setup
-
-```bash
-pip install -r requirements.txt
-```
-
-Create a `.env` file:
-
-```
-OPENAI_API_KEY=sk-...
-HUGGINGFACEHUB_API_TOKEN=hf_...
-```
-
-Get your HuggingFace token at [huggingface.co/settings/tokens](https://huggingface.co/settings/tokens).  
-You need to accept the [Mistral-7B-Instruct-v0.3](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3) model license on HuggingFace.
-
-## Usage
-
-Open `youtube_rag.ipynb` and run all cells.  
-Change `DEMO_URL` to any YouTube video with captions.
-
 ## Features
 
 - Single-video Q&A
